@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\СshGit4\СshGit4\bin\Debug\СshGit4.exe.config
+C:\Users\acer\source\repos\СshGit4\СshGit4\bin\Debug\СshGit4.exe
+C:\Users\acer\source\repos\СshGit4\СshGit4\bin\Debug\СshGit4.pdb
+C:\Users\acer\source\repos\СshGit4\СshGit4\obj\Debug\СshGit4.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\СshGit4\СshGit4\obj\Debug\СshGit4.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\СshGit4\СshGit4\obj\Debug\СshGit4.exe
+C:\Users\acer\source\repos\СshGit4\СshGit4\obj\Debug\СshGit4.pdb
